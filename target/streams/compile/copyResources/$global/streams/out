@@ -1,6 +1,0 @@
-[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
-[0m[[0mdebug[0m] [0m	(C:\Users\rk.arvind\Downloads\Web App\basic-api-app - Test\amplifyr-server\conf\application.conf,C:\Users\rk.arvind\Downloads\Web App\basic-api-app - Test\amplifyr-server\target\scala-2.11\classes\application.conf)[0m
-[0m[[0mdebug[0m] [0m	(C:\Users\rk.arvind\Downloads\Web App\basic-api-app - Test\amplifyr-server\conf\evolutions,C:\Users\rk.arvind\Downloads\Web App\basic-api-app - Test\amplifyr-server\target\scala-2.11\classes\evolutions)[0m
-[0m[[0mdebug[0m] [0m	(C:\Users\rk.arvind\Downloads\Web App\basic-api-app - Test\amplifyr-server\conf\routes,C:\Users\rk.arvind\Downloads\Web App\basic-api-app - Test\amplifyr-server\target\scala-2.11\classes\routes)[0m
-[0m[[0mdebug[0m] [0m	(C:\Users\rk.arvind\Downloads\Web App\basic-api-app - Test\amplifyr-server\conf\evolutions\default,C:\Users\rk.arvind\Downloads\Web App\basic-api-app - Test\amplifyr-server\target\scala-2.11\classes\evolutions\default)[0m
-[0m[[0mdebug[0m] [0m	(C:\Users\rk.arvind\Downloads\Web App\basic-api-app - Test\amplifyr-server\conf\evolutions\default\1.sql,C:\Users\rk.arvind\Downloads\Web App\basic-api-app - Test\amplifyr-server\target\scala-2.11\classes\evolutions\default\1.sql)[0m
